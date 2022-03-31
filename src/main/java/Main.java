@@ -36,7 +36,6 @@ public class Main {
 
 boxA1.addBox(boxA2);
 
-        System.out.println(boxA1.getCount());
         System.out.println(boxA1.getBoxWeight());
     }
 }
